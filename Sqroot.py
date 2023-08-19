@@ -12,5 +12,7 @@ class Solution:
             return (counter+counter-1)//2
 
 result = Solution()
-print("Sqaure root result: ", result.mySqrt(4))
+print("Sqaure root result: ", result.mySqrt(9))
+print("Sqaure root result: ", result.mySqrt(1))
+print("Sqaure root result: ", result.mySqrt(128))
 print("Sqaure root result: ", result.mySqrt(8))
